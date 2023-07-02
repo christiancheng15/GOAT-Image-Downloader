@@ -8,6 +8,9 @@
 3. requirements.txt
 
 ## Requirements:
+1. art==6.0
+2. beautifulsoup4==4.12.2
+3. requests==2.31.0
 
 ## Example Output:
 
