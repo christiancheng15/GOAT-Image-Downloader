@@ -14,5 +14,7 @@
 
 ## Example Output:
 1. [BAPE Color Camo Shark Full Zip Hoodie "Purple"](https://www.goat.com/en-au/apparel/bape-color-camo-shark-full-zip-hoodie-purple-1h70-115-008-purple)
+   
+   ![BAPE Color Camo Shark Full Zip Hoodie "Purple" Images](examples/bape-color-camo-shark-full-zip-hoodie-purple-1h70-115-008-purple_example.png)
 
 ## Like this project? Follow me [christiancheng15](https://github.com/christiancheng15/)
