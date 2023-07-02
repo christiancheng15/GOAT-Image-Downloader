@@ -1,2 +1,2 @@
-# GOAT-Image-Downloader
+# GOAT Image Downloader
 Download high-resolution HD images on GOAT.com
